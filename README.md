@@ -1,2 +1,3 @@
-# learning-2025-daily-progress
-My 2025 Engineering Journey Progress🔥
+# My 2025 Daily Learning Streak 🔥
+Linux • AI • 
+Real commits every day = real growth
