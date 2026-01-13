@@ -1,0 +1,4 @@
+control plane:
+  CONTOLLER MANAGER, SCHEDULLER, ETCD, API SERVER
+worker nodes:
+  PODS, CONTAINERS
